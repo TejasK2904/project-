@@ -1,0 +1,3 @@
+Tourism Analysis and Insights : This data is all about tourism in all over the world. As a Data analyst working for a tourism board responsible for promoting tourism in various countries and identify what are the popular contries in the world where tourist want to travel according to the season and month. I have collected this data on tourist arrivals from kaggle. 
+The dataset contains information about the number of tourists (Count), the country they visited (Country), the month of arrival (Month), and other relevant attributes and this
+data contain missing values values as well. 
