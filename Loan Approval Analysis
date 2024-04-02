@@ -1,0 +1,6 @@
+The dataset consists of loan application information including features like Gender, Marital status, Dependents, Education, 
+Self-employed status, Applicant Income, Coapplicant Income, Loan Amount, Loan Amount Term, Credit History, Property Area, and Loan Status. 
+The goal is to predict the Loan Status (whether it's approved or not) based on the given features.This is a supervised learning problem, and Support Vector Machine (SVM) 
+algorithm can be applied to classify the loan applications into two classes: approved (Y) and not approved (N). SVM aims to find the optimal hyperplane that best separates the 
+classes in the feature space.Before applying SVM, data preprocessing steps such as handling missing values, encoding categorical variables, and scaling numerical features may 
+be necessary. After preprocessing, the dataset can be split into training and testing sets for model training and evaluation.
