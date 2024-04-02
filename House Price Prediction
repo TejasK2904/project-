@@ -1,1 +1,3 @@
-
+The dataset consists of real estate information including transaction date, house age, distance to the nearest MRT 
+(Mass Rapid Transit) station, number of convenience stores nearby, latitude, longitude, and house price per unit area. 
+The goal is to build machine learning models to predict the house price per unit area based on the given features.
